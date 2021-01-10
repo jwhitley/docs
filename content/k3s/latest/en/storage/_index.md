@@ -75,8 +75,6 @@ The status should be Bound for each.
 
 [comment]: <> (pending change - longhorn may support arm64 and armhf in the future.)
 
-> **Note:** At this time Longhorn only supports amd64.
-
 K3s supports [Longhorn](https://github.com/longhorn/longhorn). Longhorn is an open-source distributed block storage system for Kubernetes.
 
 Below we cover a simple example. For more information, refer to the official documentation [here](https://github.com/longhorn/longhorn/blob/master/README.md).
